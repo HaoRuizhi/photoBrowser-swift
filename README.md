@@ -1,6 +1,7 @@
 # photoBrowser-swift
 更好用的swift图片浏览器
 
+![image](https://github.com/HaoRuizhi/photoBrowser-swift/blob/master/resource/effect.gif)
 
 ### 使用
 进入项目目录，pod install安装yywebimage，安装成功后即可运行
